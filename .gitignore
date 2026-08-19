@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+*.egg-info/
+.pytest_cache/
+questions/filter_cache.jsonl
+.env
+
+# local-only: not part of the public release
+papers/
+docs/superpowers/
+final.md

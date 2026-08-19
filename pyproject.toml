@@ -1,0 +1,18 @@
+[project]
+name = "persona-gap"
+version = "0.1.0"
+description = "Do LLMs give worse answers to users they think can't check them? Persona-conditioned answer-quality experiments."
+requires-python = ">=3.12"
+dependencies = [
+    "datasets>=5.0.1",
+    "httpx>=0.28.1",
+    "matplotlib>=3.11.1",
+    "numpy>=2.5.2",
+    "pyyaml>=6.0.3",
+    "textstat>=0.7.13",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]
