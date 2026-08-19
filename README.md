@@ -9,7 +9,7 @@ extension of the sandbagging finding in Appendix C of
 [Perez et al. 2022](https://arxiv.org/abs/2212.09251), run in August 2026 for
 about $10 in API credits.
 
-**Blog post:** _link TBD_
+**Blog post:** [You are an AI Assistant, but what am I? — Why I tell my Agent I'm an expert at everything](https://shimin.io/journal/why-i-tell-my-agent-im-an-expert-at-everything/)
 
 ## TL;DR
 
